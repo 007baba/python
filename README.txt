@@ -1,7 +1,7 @@
 # python
 Welcome to read and give me advice!
 Just like what you see.
-I want to use this repositories  to study Python.
+I want to use this repositories to study Python.
 Come on!
 欢迎阅读和提出意见。
 就像你看到的。
