@@ -1,5 +1,5 @@
 # python
-Welcome to read and give me advice!
+Welcome to read and give me advise!
 Just like what you see.
 I want to use this repositories to study Python.
 Come on!
