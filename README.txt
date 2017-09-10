@@ -2,7 +2,7 @@
 Welcome to read and give me advice!
 Just like what you see.
 I want to use this repositories to study Python.
-If you don't learn python very well,we can study together.
+If you don't learn python very well,we can study and improve together.
 Athough I am not good at python programing.
 I need your help.
 Come on!
